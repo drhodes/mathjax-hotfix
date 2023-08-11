@@ -1,2 +1,3 @@
-
-console.log("hotfix");
+<script type="text/javascript">
+  console.log("hotfix");
+</script>
